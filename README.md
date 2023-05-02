@@ -12,3 +12,5 @@ The app uses the following technologies:
 - **Retrofit:** The app uses the Retrofit library to make HTTP requests to the NewsAPI API
 - **Moshi:** is a JSON parsing library for Java and Android that allows developers to convert JSON data into Java objects. It is similar to other JSON parsing libraries like Gson, but it is designed to be faster and more memory-efficient.
 - **RecyclerView:** The app uses a RecyclerView to display the news articles in a user-friendly format.
+
+<img width="300" alt="Screen Shot 2023-05-01 at 9 53 08 PM" src="https://user-images.githubusercontent.com/70713646/235577391-93b0b5ce-dd17-45fd-9c66-ea42cc4cc36a.png">
